@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "titulo": "Admirável Mundo Novo",
+        "autor": "Adouls Huxley",
+        "ano de lançamento": "1932"
+    },
+    {
+        "id": "2",
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "ano de lançamento": "1949"
+    },
+    {
+        "id": "3",
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "ano de lançamento": "1945"
+    },
+    {
+        "id": "4",
+        "titulo": "O Conto da Aia",
+        "autor": "Margaret Atwood",
+        "ano de lançamento": "1985"
+    },
+    {
+        "id": "5",
+        "titulo": "Laranja Mecânica",
+        "autor": "Anthony Burgess",
+        "ano de lançamento": "1962"
+    },
+    {
+        "id": "6",
+        "titulo": "Eu, Robô",
+        "autor": "Isaac Asimov",
+        "ano de lançamento": "1950"
+    },
+    {
+        "id": "7",
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "ano de lançamento": "1953"
+    },
+    {
+        "id": "8",
+        "titulo": "O Senhor das Moscas",
+        "autor": "William Golding",
+        "ano de lançamento": "1954"
+    },
+    {
+        "id": "9",
+        "titulo": "O sol é para todos",
+        "autor": "Harper Lee",
+        "ano de lançamento": "1932"
+    },
+    {
+        "id": "10",
+        "titulo": "Neuromancer",
+        "autor": "William Gibson",
+        "ano de lançamento": "1984"
+    }
+] 
